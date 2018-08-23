@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <Resource id="chat" type="javax.sql.DataSource">#Thu Aug 23 15:26:46 IST 2018
+jdbcDriver=com.mysql.jdbc.Driver
+password=
+userName=root
+jdbcUrl=jdbc\:mysql\://localhost\:3306/chathurika?zeroDateTimeBehavior\=convertToNull
+</Resource>
+</resources>
